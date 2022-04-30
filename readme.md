@@ -17,4 +17,4 @@
 
 ### _CSS_:
 
-    * worked without dipper CSS, only inline-block and some pseudo classes.
+    Worked without dipper CSS, only inline-block and some pseudo classes.
