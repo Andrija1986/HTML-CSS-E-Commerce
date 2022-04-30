@@ -1,4 +1,4 @@
-# E-Commerce
+# E-Commerce - Candy Shop
 
 #### This project had been done in HTML and CSS
 
