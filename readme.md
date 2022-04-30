@@ -4,6 +4,8 @@
 
 ### _HTML_(used tags):
 
+---
+
     1. <p>
     2. <div>
     3. <h1>, <h3>
@@ -16,5 +18,7 @@
     10. <footer>
 
 ### _CSS_:
+
+---
 
     Worked without dipper CSS, only inline-block and some pseudo classes.
